@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cindykkkkk.github.io</id>
+    <title>DerHirteIShere</title>
+    <updated>2024-01-21T15:10:23.825Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cindykkkkk.github.io"/>
+    <link rel="self" href="https://cindykkkkk.github.io/atom.xml"/>
+    <subtitle>六年倒計時</subtitle>
+    <logo>https://cindykkkkk.github.io/images/avatar.png</logo>
+    <icon>https://cindykkkkk.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, DerHirteIShere</rights>
+</feed>
